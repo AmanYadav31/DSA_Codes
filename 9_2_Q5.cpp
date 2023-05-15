@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-/*Cannot solve for brackets*/
+/*Wasted effort by me ==idiot*/
 int precedence(char c)
 {
     if(c=='^')
